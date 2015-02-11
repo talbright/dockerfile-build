@@ -1,1 +1,1 @@
-Build and manage docker images.
+Build and manage docker images with a docker registry.
